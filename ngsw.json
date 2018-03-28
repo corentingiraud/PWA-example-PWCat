@@ -1,0 +1,45 @@
+{
+  "configVersion": 1,
+  "index": "/PWCat/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/PWCat/favicon.ico",
+        "/PWCat/index.html",
+        "/PWCat/inline.318b50c57b4eba3d437b.bundle.js",
+        "/PWCat/main.92ea4499127a7074caa7.bundle.js",
+        "/PWCat/polyfills.23490afe3349284ca349.bundle.js",
+        "/PWCat/styles.a831422c8ddbb50b7d09.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/PWCat/assets/icon-128x128.png",
+        "/PWCat/assets/icon-152x152.png",
+        "/PWCat/assets/icon-256x256.png",
+        "/PWCat/assets/icon-512x512.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/PWCat/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "/PWCat/assets/icon-128x128.png": "c470c62cd5abbba59ab01dc81057154298b2a7a7",
+    "/PWCat/main.92ea4499127a7074caa7.bundle.js": "65b112fadc0d9a74695e62a6c098e64cf27c8b52",
+    "/PWCat/assets/icon-152x152.png": "22a2d970188eafdab64f12e1e9640e68d7790a28",
+    "/PWCat/polyfills.23490afe3349284ca349.bundle.js": "d0684b19443e2b069a76cad6b29a7f3c27a09fcc",
+    "/PWCat/assets/icon-256x256.png": "2de768dab7809616d9356efc16054a7f272810ce",
+    "/PWCat/styles.a831422c8ddbb50b7d09.bundle.css": "2d54a334bf71713644c3c2f6aeed7da1ab2a647c",
+    "/PWCat/assets/icon-512x512.png": "10520f75bfe6410de5ee69d85f88a9938cb15cce",
+    "/PWCat/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/PWCat/index.html": "6dbf39ef8bea096ebec72abbf594dddb8574b735"
+  }
+}
